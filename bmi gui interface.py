@@ -31,7 +31,7 @@ def calculate_bmi():
         resLabelText.set("you are categorised as Obese")
     return
 
-########################### Graphical User Interface (Tkinter) ###########################################
+#Graphical User Interface (Tkinter)
 
 #  Sets size and title 
 app.geometry("350x200+100+100")
